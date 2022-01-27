@@ -1,1 +1,1 @@
-# Next.js Typescript 스터디
+# Next.js TypeScript 스터디
